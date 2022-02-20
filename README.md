@@ -1,5 +1,5 @@
 # Firefox Extension To Search Through Stackoverflow Only
-# Uses duckduckgo to search your query in StackOverflow only
+### Uses duckduckgo to search your query in StackOverflow only
 
 A Firefox extension for searching Stackoverflow from the address bar.
 
