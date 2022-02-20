@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Search in StackOverflow Only",
+  "version": "1.2",
+  "description": "Uses duckduckgo to search your query in StackOverflow only",
+  "icons": {
+    "48": "icons/48px-stackoverflow-quick-search.png",
+    "96": "icons/96px-stackoverflow-quick-search.png"
+  },
+  "omnibox": {
+    "keyword": "so"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "developer@jolinkomo.com"
+    }
+  },
+  "background": {
+    "scripts": [
+      "stackoverflow_ext.js"
+    ]
+  }
+}
