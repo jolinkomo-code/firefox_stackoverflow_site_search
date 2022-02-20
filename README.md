@@ -9,7 +9,7 @@ Example: "so how to set native props in react native" and press ENTER to get duc
 I'm using a search engine to search through stackoverflow instead of searching in stackoverflow directly because stackoverflow will sometimes 
 ask for a recaptcha, which can be annoying. 
 
-# Why DuckDuckGo?
+# Why use DuckDuckGo?
 Its the same reason why I'm not searching in stackoverflow directly, using google will also ask for recapchas 
 if you using a VPN.
 
