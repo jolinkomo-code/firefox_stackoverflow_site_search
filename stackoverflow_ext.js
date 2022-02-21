@@ -7,7 +7,7 @@ browser.omnibox.onInputEntered.addListener(
     var url;
     // replace whitespaces with '+'
     textinput = textinput.replace(/\s+/g, "+");
-    url = `https://duckduckgo.com/?q=${textinput}`;
+    url = 'https://duckduckgo.com/?q=site%3Astackoverflow.com+' + textinput +'&t=newext&atb=v1-1&ia=web';
 
     // open the search page
     switch (disposition) {

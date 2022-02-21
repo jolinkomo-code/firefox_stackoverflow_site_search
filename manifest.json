@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "name": "Search in StackOverflow Only",
-  "version": "1.2",
+  "version": "1.0.0",
   "description": "Uses duckduckgo to search your query in StackOverflow only",
   "icons": {
-    "48": "icons/48px-stackoverflow-quick-search.png",
-    "96": "icons/96px-stackoverflow-quick-search.png"
+    "48": "icons/48px-stackoverflow_ext.png",
+    "96": "icons/96px-stackoverflow_ext.png"
   },
   "omnibox": {
     "keyword": "so"
