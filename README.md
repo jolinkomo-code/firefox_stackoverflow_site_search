@@ -1,12 +1,10 @@
 # Firefox Extension To Search Through Stackoverflow Only
 ### Uses duckduckgo to search your query in StackOverflow only
 
-A Firefox extension for searching Stackoverflow from the address bar.
+The plugin is activated when you type 'ss' in the address bar, followed by your query, then when you press enter, it searches through the stackoverflow domain.
 
-Just type 'so' in the address bar followed by your search string and press ENTER.
-
-Example: "so how to set native props in react native" and press ENTER to get duckduckgo to search stackoverflow only.
-
+>>  "ss how to set native props in react native" <<
+  
 I'm using a search engine to search through stackoverflow instead of searching in stackoverflow directly because stackoverflow will sometimes 
 ask for a recaptcha, which can be annoying. 
 
